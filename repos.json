@@ -3,7 +3,7 @@
       "name": "miku-KernelSU",
       "repo": "https://github.com/user-why-red/android_kernel_xiaomi_sdm660_419",
       "branch": "android-4.19-stable",
-      "device": "lavender"
+      "device": "gki"
     },
     "withKernelSU": true,
     "toolchains": [
