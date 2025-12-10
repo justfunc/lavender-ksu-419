@@ -9,8 +9,8 @@
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
-        "branch": "11",
-        "name": "master"
+        "branch": "master",
+        "name": "clang"
       }
     ],
     "params": {
