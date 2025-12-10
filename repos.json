@@ -8,9 +8,9 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+        "repo": "https://github.com/kdrag0n/proton-clang",
         "branch": "11",
-        "name": "clang"
+        "name": "master"
       }
     ],
     "params": {
